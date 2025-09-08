@@ -28,3 +28,21 @@ cd calendario-interactivo
 ```
 python main.py
 ```
+
+---
+
+## 🪄 Futuras mejoras
+
+- Mejoras visuales en las que se haga una interfaz mas atractiva
+- Añadir mejoras visuales para saber el dia actual
+- Añadir funcionalidades interesantes para conocer cuantos dias de trabajo queda, estadísticas sobre las duraciones de las sesiones, etc.
+
+---
+
+## 📜 Licencia
+
+- Este proyecto está disponible bajo licencia MIT.
+
+---
+
+🙌 Créditos: Proyecto desarrollado por [Álvaro García Velasco](https://github.com/alvaroG-IA)
