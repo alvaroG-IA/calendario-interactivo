@@ -31,7 +31,7 @@ python main.py
 
 ---
 
-## 🪄 Futuras mejoras
+## 🪄 Futuras mejoras
 
 - Mejoras visuales en las que se haga una interfaz mas atractiva
 - Añadir mejoras visuales para saber el dia actual
